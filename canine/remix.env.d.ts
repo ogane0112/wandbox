@@ -1,7 +1,7 @@
 /// <reference types="@remix-run/dev" />
 /// <reference types="@remix-run/cloudflare-workers/globals" />
 /// <reference types="@cloudflare/workers-types" />
-
+//このコードは,
 declare type GithubUser = {
   id: number;
   login: string;

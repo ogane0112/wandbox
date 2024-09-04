@@ -1,3 +1,4 @@
+//cloud flare設定用ファイル
 import { createEventHandler } from "@remix-run/cloudflare-workers";
 import * as build from "@remix-run/dev/server-build";
 
